@@ -1,0 +1,25 @@
+.pg-home {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    .ct{
+        width: 1080px;
+        margin-left: auto;
+        margin-right: auto;
+
+        display: flex;
+
+        .left {
+            width: 30%;
+            height: 100vh;
+            border: solid 1px #fff;
+        }
+
+        .rigth {
+            width: 70%;
+            height: 100vh;
+            border: solid 1px #fff;
+        }
+    }
+}
