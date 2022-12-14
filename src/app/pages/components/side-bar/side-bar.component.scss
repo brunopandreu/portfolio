@@ -1,0 +1,33 @@
+.ct {
+    width: 100%;
+    background-color: var(--color_primary);
+
+    .bx-profile {
+        width: 100%;
+        height: 300px;
+        background: var(--color_boxes);
+        margin-top: 20px;
+        border: solid 1px #fff;
+    }
+
+    .bx-info {
+        width: 100%;
+        height: 150px;
+        margin-top: 10px;
+        border: solid 1px #fff;
+    }
+
+    .bx-languages {
+        width: 100%;
+        height: 170px;
+        margin-top: 10px;
+        border: solid 1px #fff;
+    }
+
+    .bx-skills {
+        width: 100%;
+        height: 100%;
+        margin-top: 10px;
+        border: solid 1px #fff;
+    }
+}
